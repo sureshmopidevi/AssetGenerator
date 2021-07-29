@@ -1,7 +1,7 @@
 
 # AssetGenerator
 A tiny tool built for generate 1x 2x 3x sized images for development.
-Just drag and drop the original image and click *generate* it will generate 1x,2x,3x images and saved to download folder.
+Just drag and drop the original image, app will generate 1x,2x,3x images and click on `save to disk` button to get saved in download folder.
 
 _Building app_: Clone the repository and  build your own. 
 

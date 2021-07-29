@@ -1,6 +1,7 @@
 
 # AssetGenerator
-A tiny tool for mac to generate 1x 2x 3x image assets
+A tiny tool built for generate 1x 2x 3x sized images for development.
+Just drag and drop the original image and click *generate* it will generate 1x,2x,3x images and saved to download folder.
 
 <img width="509" alt="Screenshot 2021-07-29 at 11 21 06 PM" src="https://user-images.githubusercontent.com/49426260/127540942-b3542896-3b27-4e4c-b617-94d25c495107.png">
 
